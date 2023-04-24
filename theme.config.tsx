@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: "https://github.com/peterayeniofficial/techclaritycoach",
   footer: {
-    text: "Tech Clarity Coach",
+    text: "Tech Clarity Coach: Created with ❤️ by Peter Ayeni - Free Forever",
   },
 };
 
