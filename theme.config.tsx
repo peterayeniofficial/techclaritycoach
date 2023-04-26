@@ -10,6 +10,11 @@ const config: DocsThemeConfig = {
     link: "https://discord.com",
   },
   docsRepositoryBase: "https://github.com/peterayeniofficial/techclaritycoach",
+  useNextSeoProps() {
+    return {
+      titleTemplate: "%s – TCC",
+    };
+  },
   footer: {
     text: "Tech Clarity Coach: Created with ❤️ by Peter Ayeni - Free Forever",
   },
