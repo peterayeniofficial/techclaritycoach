@@ -1,6 +1,13 @@
 {
   "index": "Tech Clarity Coach",
-  "introduction": "Introduction",
+  "introduction": "1 Introduction",
+  "exploringtechcareers": "2 Exploring Tech Careers",
+  "skilldevelopmentandeducation": "3 Skill Development and Education",
+  "buildingyourportfolio": "4 Building Your Portfolio",
+  "networkingandcommunity": "5 Networking and Community",
+  "jobsearchingandapplications": "6 Job Searching and Applications",
+  "acingtheinterviewprocess": "7 Acing the Interview Process",
+  "thrivinginyournewtechcareer": "Thriving in Your New Tech Career",
   "another": "Another Page",
   "about": {
     "title": "About",
