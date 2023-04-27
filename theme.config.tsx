@@ -16,7 +16,7 @@ const config: DocsThemeConfig = {
     };
   },
   footer: {
-    text: "Tech Clarity Coach: Curated with ❤️ by Peter Ayeni - Free Forever",
+    text: "Curated with ❤️ by Peter Ayeni - Free Forever",
   },
 };
 
