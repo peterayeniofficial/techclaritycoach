@@ -7,7 +7,7 @@ const config: DocsThemeConfig = {
     link: "https://github.com/peterayeniofficial/techclaritycoach",
   },
   chat: {
-    link: "https://discord.com",
+    link: "https://discord.gg/mC4CvZC8",
   },
   docsRepositoryBase: "https://github.com/peterayeniofficial/techclaritycoach",
   useNextSeoProps() {
