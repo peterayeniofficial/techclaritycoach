@@ -13,6 +13,10 @@
     "title": "About",
     "type": "page"
   },
+  "heroes": {
+    "title": "Heroes",
+    "type": "page"
+  },
   "contact": {
     "title": "Contact ↗",
     "type": "page",
