@@ -41,7 +41,6 @@ export default async function (req) {
         }}
       >
         <svg
-          style={{ position: "absolute", top: 70, left: 80 }}
           height="40"
           viewBox="0 0 361 70"
           xmlns="http://www.w3.org/2000/svg"
