@@ -48,3 +48,29 @@ of diversity and inclusion, as diverse perspectives lead to more innovative and 
 have initiatives and programs that promote diversity and inclusion in the workforce, encouraging professionals from various
 backgrounds to consider a career in technology. By joining the tech industry, you can become part of a diverse and inclusive
 community that thrives on creativity, collaboration, and innovation.
+
+## Resources
+
+{
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Cost</th>
+    </tr>
+  </thead>
+  <tbody>
+    {[
+      { name: 'Resource one', link: 'https://example.com/', cost: 'Free', description: 'About this resources' },
+      { name: 'Resource two', link: 'https://example.com/', cost: 'Free', description: 'About this resources' }
+    ].map(item => (
+      <tr key={item.name}>
+        <td><a target="_blank" href="{item.link}">{item.name}</a></td>
+        <td>{item.description}</td>
+        <td>{item.cost}</td>
+      </tr>
+    ))}
+  </tbody>
+</table>
+}
