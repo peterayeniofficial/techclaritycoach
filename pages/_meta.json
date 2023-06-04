@@ -1,14 +1,19 @@
 {
   "index": "Get Started",
   "introduction": "",
-  "exploringtechcareers": "2 Exploring Tech Careers",
-  "skilldevelopmentandeducation": "3 Skill Development and Education",
-  "buildingyourportfolio": "4 Building Your Portfolio",
-  "networkingandcommunity": "5 Networking and Community",
-  "jobsearchingandapplications": "6 Job Searching and Applications",
-  "acingtheinterviewprocess": "7 Acing the Interview Process",
-  "thrivinginyournewtechcareer": "8 Thriving in Your New Tech Career",
+  "exploringtechcareers": "Exploring Tech Careers",
+  "skilldevelopmentandeducation": "Skill Development and Education",
+  "buildingyourportfolio": "Building Your Portfolio",
+  "networkingandcommunity": "Networking and Community",
+  "jobsearchingandapplications": "Job Searching and Applications",
+  "acingtheinterviewprocess": "Acing the Interview Process",
+  "thrivinginyournewtechcareer": "Thriving in Your New Tech Career",
   "Conclusion": "",
+  "-- TCC Ambassadors": {
+    "type": "separator",
+    "title": "Ambassadors"
+  },
+  "ambassadors": "TCC Ambassadors",
   "about": {
     "title": "About",
     "type": "page"
