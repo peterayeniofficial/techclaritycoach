@@ -9,10 +9,11 @@
   "acingtheinterviewprocess": "Acing the Interview Process",
   "thrivinginyournewtechcareer": "Thriving in Your New Tech Career",
   "Conclusion": "",
-  "-- TCC Ambasadors": {
+  "-- TCC Ambassadors": {
     "type": "separator",
-    "title": "Ambasadors"
+    "title": "Ambassadors"
   },
+  "ambassadors": "TCC Ambassadors",
   "about": {
     "title": "About",
     "type": "page"
