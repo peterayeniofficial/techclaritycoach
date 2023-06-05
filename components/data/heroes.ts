@@ -32,7 +32,15 @@ const heroes = [
       "Udemy instructor with 75k+ Students. Teaching about building a successful career in tech, with emphasis on growth and standing out as a software engineer",
     link: "https://twitter.com/bahdcoder",
     handle: "@bahdcoder",
-    imageURL: "/assets/heroes/lee.jpeg",
+    imageURL: "/assets/heroes/Franz.jpeg",
+  },
+  {
+    name: "Sara Soueidan",
+    description:
+      "Inclusive UI/design engineer, int'l speaker, author, trainer. • Creator of the Practical Accessibility course http://practical-accessibility.today ",
+    link: "https://twitter.com/SaraSoueidan",
+    handle: "@SaraSoueidan",
+    imageURL: "/assets/heroes/Sara.jpeg",
   },
 ];
 
