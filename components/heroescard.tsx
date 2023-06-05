@@ -1,11 +1,9 @@
-import { GlobeAltIcon } from "@heroicons/react/24/outline";
-import { Card, Cards } from "nextra-theme-docs";
+import { Card } from "nextra-theme-docs";
 import Image from "next/image";
 
 const heroes = [
   {
     name: "DHH",
-    icon: GlobeAltIcon,
     description:
       "Creator of Ruby on Rails, Co-owner & CTO of 37signals (Basecamp & HEY), NYT best-selling author, and Le Mans 24h class-winner.",
     link: "https://twitter.com/dhh",
@@ -14,7 +12,6 @@ const heroes = [
   },
   {
     name: "Sarah Drasner",
-    icon: GlobeAltIcon,
     description:
       "Director of Eng, Web Infra @google , O'Reilly Author • OpenJS Board Member",
     link: "https://twitter.com/sarah_edo",
@@ -23,7 +20,6 @@ const heroes = [
   },
   {
     name: "Lee Robinson",
-    icon: GlobeAltIcon,
     description:
       "Helping developers build a faster web. Teaching about web development, serverless, and React / Next.js.",
     link: "https://twitter.com/leeerob",
@@ -36,7 +32,7 @@ function Heroes() {
   return (
     <>
       <div className="grid grid-cols-2 gap-6 my-12 sm:grid-cols-3 ">
-        {heroes.map(({ icon: Icon, ...heroe }, i) => (
+        {heroes.map(({ ...heroe }, i) => (
           <div
             className="flex items-center space-x-4"
             key={heroe.name.split(" ").join("-")}
@@ -59,11 +55,20 @@ function Heroes() {
               </p>
               <Card
                 icon={
-                  <Icon
-                    className="block w-8 h-8"
-                    style={{ height: 24, width: 24 }}
-                    aria-hidden="true"
-                  />
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke-width="1.5"
+                    stroke="currentColor"
+                    className="w-6 h-6"
+                  >
+                    <path
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                      d="M15.042 21.672L13.684 16.6m0 0l-2.51 2.225.569-9.47 5.227 7.917-3.286-.672zM12 2.25V4.5m5.834.166l-1.591 1.591M20.25 10.5H18M7.757 14.743l-1.59 1.59M6 10.5H3.75m4.007-4.243l-1.59-1.59"
+                    />
+                  </svg>
                 }
                 title={heroe.handle}
                 href={heroe.link}
