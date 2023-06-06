@@ -42,6 +42,14 @@ const heroes = [
     handle: "@SaraSoueidan",
     imageURL: "/assets/heroes/Sara.jpeg",
   },
+  {
+    name: "Andrei Neagoie",
+    description:
+      "run the best tech school in the world that gets people (actually) hired at top companies (1,000,000+ pros have taken a ZTM course) ",
+    link: "https://twitter.com/AndreiNeagoie",
+    handle: "@AndreiNeagoie",
+    imageURL: "/assets/heroes/Andrei.jpeg", 
+  },
 ];
 
 function Heroes() {
