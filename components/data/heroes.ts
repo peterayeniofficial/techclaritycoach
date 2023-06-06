@@ -50,6 +50,14 @@ const heroes = [
     handle: "@AndreiNeagoie",
     imageURL: "/assets/heroes/Andrei.jpeg", 
   },
+  {
+    name: "Sebastian Sigl",
+    description:
+      " Passionate software engineer @Adevinta, Building websites in public, Tweeting about backend & frontend, Free coaching, Ex @eBay with 8 years work experience",
+    link: "https://twitter.com/sesigl",
+    handle: "@sesigl",
+    imageURL: "/assets/heroes/seb.jpeg", 
+  },
 ];
 
 function Heroes() {
