@@ -1,32 +1,6 @@
 import { Card, Cards } from "nextra-theme-docs";
 import Image from "next/image";
-
-const heroes = [
-  {
-    name: "DHH",
-    description:
-      "Creator of Ruby on Rails, Co-owner & CTO of 37signals (Basecamp & HEY), NYT best-selling author, and Le Mans 24h class-winner.",
-    link: "https://twitter.com/dhh",
-    handle: "@dhh",
-    imageURL: "/assets/heroes/dhh.jpeg",
-  },
-  {
-    name: "Sarah Drasner",
-    description:
-      "Director of Eng, Web Infra @google , O'Reilly Author • OpenJS Board Member",
-    link: "https://twitter.com/sarah_edo",
-    handle: "@sarah_edo",
-    imageURL: "/assets/heroes/sarah.jpeg",
-  },
-  {
-    name: "Lee Robinson",
-    description:
-      "Helping developers build a faster web. Teaching about web development, serverless, and React / Next.js.",
-    link: "https://twitter.com/leeerob",
-    handle: "@leeerob",
-    imageURL: "/assets/heroes/lee.jpeg",
-  },
-];
+import { heroes } from "data/heroes";
 
 function Heroes() {
   return (
