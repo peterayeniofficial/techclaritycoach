@@ -55,4 +55,12 @@ export const heroes = [
     handle: "@sesigl",
     imageURL: "/assets/heroes/seb.jpeg",
   },
+  {
+    name: "Peter Ayeni",
+    description:
+      "I change the world, by helping people get started in tech and social entrepenurship",
+    link: "https://twitter.com/thepeterayeni",
+    handle: "@thepeterayeni",
+    imageURL: "/assets/heroes/peter-ayeni.jpeg",
+  },
 ];
