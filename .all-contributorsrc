@@ -19,14 +19,24 @@
       ]
     },
     {
-      "login": "adeyemimichael",
+      "login": "Creadify",
+      "name": "Creadify",
+      "avatar_url": "https://avatars.githubusercontent.com/u/136258671?v=4",
+      "profile": "https://github.com/Creadify",
+      "contributions": [
+        "design",
+        "ideas"
+      ]
+    },
+    {
+     "login": "adeyemimichael",
       "name": "AKANDE Ayobami",
       "avatar_url": "https://avatars.githubusercontent.com/u/83408171?v=4",
       "profile": "https://github.com/adeyemimichael",
       "contributions": [
         "content",
         "eventOrganizing"
-      ]
+        ]
     }
   ],
   "contributorsPerLine": 7,
