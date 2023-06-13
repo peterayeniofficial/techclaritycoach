@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "ebuka1-anthony",
+      "name": "ebuka anthony",
+      "avatar_url": "https://avatars.githubusercontent.com/u/106475290?v=4",
+      "profile": "https://ebukanthony.netlify.app",
+      "contributions": [
+        "content",
+        "ideas",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "techclaritycoach",
+  "projectOwner": "peterayeniofficial"
+}
