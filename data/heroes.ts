@@ -16,6 +16,14 @@ export const heroes = [
     imageURL: "/assets/heroes/sarah.jpeg",
   },
   {
+    name: "Ohans Emmanuel",
+    description:
+      "I do more than I tweet. 5x Author. Staff Software Engineer @HelloFresh Read my new book: http://ohans.me/ua-github",
+    link: "https://twitter.com/OhansEmmanuel",
+    handle: "@OhansEmmanuel",
+    imageURL: "/assets/heroes/ohans.jpeg",
+  },
+  {
     name: "Lee Robinson",
     description:
       "Helping developers build a faster web. Teaching about web development, serverless, and React / Next.js.",
@@ -54,6 +62,22 @@ export const heroes = [
     link: "https://twitter.com/sesigl",
     handle: "@sesigl",
     imageURL: "/assets/heroes/seb.jpeg",
+  },
+  {
+    name: "Chris Do",
+    description:
+      "Bilingual creative who lives at the intersection of business & design. Content creator, public speaker, workshopper. Host of top 20 Futur podcast.",
+    link: "https://twitter.com/theChrisDo",
+    handle: "@theChrisdo",
+    imageURL: "/assets/heroes/chris-do.jpeg",
+  },
+  {
+    name: "Nader Dabit",
+    description:
+      "Director of DevRel @aaveaave 👻 @lensprotocol 🌿 // founder @developer_dao // experimenting @arweaveeco // React* web3 and AI",
+    link: "https://twitter.com/dabit3",
+    handle: "@dabit3",
+    imageURL: "/assets/heroes/nader-dabit.png",
   },
   {
     name: "Peter Ayeni",
