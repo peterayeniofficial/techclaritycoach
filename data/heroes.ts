@@ -16,6 +16,14 @@ export const heroes = [
     imageURL: "/assets/heroes/sarah.jpeg",
   },
   {
+    name: "Addy Osmani",
+    description:
+      "Engineering leader working on @GoogleChrome • Author • Great user & developer experiences",
+    link: "https://twitter.com/addyosmani",
+    handle: "@addyosmani",
+    imageURL: "/assets/heroes/addyosmani.jpeg",
+  },
+  {
     name: "Ohans Emmanuel",
     description:
       "I do more than I tweet. 5x Author. Staff Software Engineer @HelloFresh Read my new book: http://ohans.me/ua-github",
@@ -48,6 +56,21 @@ export const heroes = [
     imageURL: "/assets/heroes/Sara.jpeg",
   },
   {
+    name: "Matteo Collina",
+    description:
+      "@platformatic Co-Founder & CTO, @nodejs TSC member, Lead maintainer @fastifyjs , Board @OpenJSF , Conference Speaker, Ph.D.",
+    link: "https://twitter.com/matteocollina",
+    handle: "@matteocollina",
+    imageURL: "/assets/heroes/matteocollina.jpeg",
+  },
+  {
+    name: "Veni Kunche",
+    description: "Founder. Maker. Software Engineer. I run @DiversifyTechCo.",
+    link: "https://twitter.com/venikunche",
+    handle: "@venikunche",
+    imageURL: "/assets/heroes/veni.jpeg",
+  },
+  {
     name: "Andrei Neagoie",
     description:
       "run the best tech school in the world that gets people (actually) hired at top companies (1,000,000+ pros have taken a ZTM course) ",
@@ -78,6 +101,14 @@ export const heroes = [
     link: "https://twitter.com/dabit3",
     handle: "@dabit3",
     imageURL: "/assets/heroes/nader-dabit.png",
+  },
+  {
+    name: "Shaundai Person",
+    description:
+      "Sr Software Engineer @Netflix • Building TypeScript for JavaScript Devs Course (http://tsforjs.com) • Bluesky: @ http://shaundai.com",
+    link: "https://twitter.com/shaundai",
+    handle: "@shaundai",
+    imageURL: "/assets/heroes/shaundai.jpeg",
   },
   {
     name: "Peter Ayeni",
