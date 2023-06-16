@@ -29,14 +29,23 @@
       ]
     },
     {
-     "login": "adeyemimichael",
+      "login": "adeyemimichael",
       "name": "AKANDE Ayobami",
       "avatar_url": "https://avatars.githubusercontent.com/u/83408171?v=4",
       "profile": "https://github.com/adeyemimichael",
       "contributions": [
         "content",
         "eventOrganizing"
-        ]
+      ]
+    },
+    {
+      "login": "BaraaNazar",
+      "name": "Baraa N. Mohsin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87875062?v=4",
+      "profile": "https://baraa-umber.vercel.app/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
