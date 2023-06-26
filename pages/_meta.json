@@ -19,6 +19,10 @@
     "title": "About",
     "type": "page"
   },
+  "techleap": {
+    "title": "Tech Leap",
+    "type": "page"
+  },
   "heroes": {
     "title": "Heroes",
     "type": "page"
