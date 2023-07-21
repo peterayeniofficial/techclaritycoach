@@ -50,7 +50,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: "https://discord.gg/mC4CvZC8",
   },
-  docsRepositoryBase: "https://github.com/peterayeniofficial/techclaritycoach",
+  docsRepositoryBase: "https://github.com/peterayeniofficial/techclaritycoach/tree/main",
   useNextSeoProps() {
     const { asPath } = useRouter();
     if (asPath !== "/") {
