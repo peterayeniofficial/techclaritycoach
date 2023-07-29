@@ -8,7 +8,7 @@
 ## Local Development
 
 Ensure you have pnpm already installed in your computer.
-If not, visit pnpm.io for more information on installation process.
+If not, visit (https://pnpm.io) for more information on installation process.
 
 #### Note
 If you have Node.js already installed in your computer, you can easily install pnpm by inputting the following command into the command prompt `npm install -g pnpm`
