@@ -48,7 +48,7 @@ export const heroes = [
     imageURL: "/assets/heroes/Franz.jpeg",
   },
   {
-    name: "Sara Soueidan",
+    name: "Sara Soueidan", 
     description:
       "Inclusive UI/design engineer, int'l speaker, author, trainer. • Creator of the Practical Accessibility course http://practical-accessibility.today ",
     link: "https://twitter.com/SaraSoueidan",
@@ -118,4 +118,29 @@ export const heroes = [
     handle: "@thepeterayeni",
     imageURL: "/assets/heroes/peter-ayeni.jpeg",
   },
+   {
+    name: "Favor Onuoha",
+    description:
+      "DevRel + Growth Lead ShowwcaseHQ, Technical Writer, Blockchain developer Content Creator, JavaScript | Helping people break into web3!",
+    link: "https://twitter.com/heyOnuoha",
+    handle: "@heyOnuoha",
+    imageURL: "/assets/heroes/favor.jpeg",
+  },
+  {
+    name: "Captain-EO",
+    description:
+      "Software Engineer • Intro tech bro •",
+    link: "https://twitter.com/eo_eboh",
+    handle: "@eo_eboh",
+    imageURL: "/assets/heroes/eboh.jpeg",
+  }, 
+   {
+    name: "chinaa",
+    description:
+      "Solo Design Agency - Creating bold and awesome brands to: Comm. Mgr @dreamaxhq , Comm. Adv. @fof_accra",
+    link: "https://twitter.com/Yaa_gurl",
+    handle: "@Yaa_gurl",
+    imageURL: "/assets/heroes/chinaa.jpeg",
+  },
 ];
+
