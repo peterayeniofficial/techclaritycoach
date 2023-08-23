@@ -141,6 +141,22 @@ export const heroes = [
     link: "https://twitter.com/Yaa_gurl",
     handle: "@Yaa_gurl",
     imageURL: "/assets/heroes/chinaa.jpeg",
+  }, 
+   {
+    name: "Dion Hinchcliffe",
+    description:
+      "Thinker, strategist, enterprise architect, keynote speaker, analyst, book author, futurist on IT,",
+    link: "https://twitter.com/dhinchcliffe",
+    handle: "@dhinchcliffe",
+    imageURL: "/assets/heroes/dion.jpeg",
+  }, 
+  {
+    name: "Nando de Freitas",
+    description:
+      "I research intelligence to understand what we are, and to harness it wisely. Research Director DeepMind",
+    link: "https://twitter.com/NandoDF",
+    handle: "@NandoDF",
+    imageURL: "/assets/heroes/nando.jpeg",
   },
 ];
 
