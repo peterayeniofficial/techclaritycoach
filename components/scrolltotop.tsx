@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import styles from "./scroll.module.css";
 
 const ScrollToTop = () => {
-  const [showButton, setShowButton] = useState(false);
+  const [showButton, setShowButton] = useState<boolean>(false);
 
   useEffect(() => {
     const handleScroll = () => {

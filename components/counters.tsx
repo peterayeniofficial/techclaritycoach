@@ -4,7 +4,7 @@ import { useState } from 'react'
 import styles from './counters.module.css'
 
 function MyButton() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState<number>(0)
 
   function handleClick() {
     setCount(count + 1)
