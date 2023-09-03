@@ -6,7 +6,7 @@ import { useState } from "react";
 import styles from "./button.module.css";
 
 const Heroes = () => {
-  const [modalOpen, setModalOpen] = useState(false);
+  const [modalOpen, setModalOpen] = useState<boolean>(false);
 
   const openModal = () => {
     setModalOpen(true);
