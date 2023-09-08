@@ -32,7 +32,7 @@ const Heroes = () => {
                   onClick={openModal}
                   src={heroe.imageURL} // Path to your image
                   alt={heroe.name} // Alt text for your image
-                  width={300} // Width of your image
+                  width={300} // Width of your images
                   height={300} // Height of your image
                   className="object-cover open-modal-button"
                 />
